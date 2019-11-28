@@ -1,0 +1,24 @@
+{
+  "name": "discord-hunt-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-html-parser": "^1.1.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sggggggs/discord-hunt-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sggggggs/discord-hunt-bot/issues"
+  },
+  "homepage": "https://github.com/sggggggs/discord-hunt-bot#readme"
+}
